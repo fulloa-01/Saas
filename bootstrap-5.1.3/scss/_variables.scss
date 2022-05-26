@@ -76,6 +76,7 @@ $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-900 !default;
 $purple:        #cf649a;
+$terminator:    #33FFF0;
 // scss-docs-end theme-color-variables
 
 // scss-docs-start theme-colors-map
@@ -88,6 +89,7 @@ $theme-colors: (
   "danger":     $danger,
   "light":      $light,
   "dark":       $dark,
+  "skynet":     $terminator,
   "purple":     $purple
 ) !default;
 // scss-docs-end theme-colors-map
